@@ -1,0 +1,17 @@
+{
+  "name": "rot_cipher",
+  "version": "1.0.0",
+  "description": "Text encoding in ROT in english  or russian language",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Igor Krutilin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
